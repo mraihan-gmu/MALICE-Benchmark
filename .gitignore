@@ -1,0 +1,22 @@
+# Full / gated corpus — never commit these to the public repo (see ACCESS.md)
+malice.csv
+malice-full.csv
+malice-full-*.csv
+malice100.csv
+Seed.xlsx
+*.xlsx
+data/full/
+data/*.csv
+
+# Allow the small illustrative sample through the ignore above
+!data/sample/malice_sample.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

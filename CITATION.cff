@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use the MALICE dataset, please cite the following paper."
+title: "MALICE: Malicious Adversarial LLM Input for Code Evaluation"
+abstract: >-
+  A large-scale adversarial benchmark of ~250K code-mixed and transliterated
+  prompts for evaluating the robustness of Code LLM safety guardrails under
+  linguistically diverse inputs.
+authors:
+  - family-names: Raihan
+    given-names: Nishat
+    affiliation: George Mason University
+  - family-names: Meher
+    given-names: Dipak
+    affiliation: George Mason University
+  - family-names: Dhingra
+    given-names: Bhuwan
+    affiliation: Duke University
+  - family-names: Zampieri
+    given-names: Marcos
+    affiliation: George Mason University
+license: LicenseRef-MALICE-Restricted-Use
+repository-code: "https://github.com/mraihan-gmu/MALICE-Dataset"
+year: 2026
+preferred-citation:
+  type: conference-paper
+  title: "On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs"
+  authors:
+    - family-names: Raihan
+      given-names: Nishat
+    - family-names: Meher
+      given-names: Dipak
+    - family-names: Dhingra
+      given-names: Bhuwan
+    - family-names: Zampieri
+      given-names: Marcos
+  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  year: 2026

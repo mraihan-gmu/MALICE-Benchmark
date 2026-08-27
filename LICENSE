@@ -1,0 +1,38 @@
+MALICE Dataset — Restricted-Use Research License
+Copyright (c) 2026 Nishat Raihan, Dipak Meher, Bhuwan Dhingra, Marcos Zampieri.
+
+This license governs the MALICE dataset and its samples ("the Dataset"), released alongside the
+paper "On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs" (Findings
+of the ACL: EMNLP 2026). By downloading, accessing, or using the Dataset (including the sample in
+this repository), you agree to the terms below.
+
+1. PURPOSE. The Dataset is provided solely for non-commercial defensive security research and
+   safety research — for example, evaluating and improving the robustness of safety classifiers and
+   Code LLM guardrails, red-teaming models you own or are authorized to test, and reproducing the
+   accompanying paper.
+
+2. PROHIBITED USES. You must NOT use the Dataset to:
+   (a) generate, assemble, deploy, or distribute actual malware, exploits, or other harmful code;
+   (b) attack, probe, or compromise any system you do not own or lack explicit written authorization
+       to test;
+   (c) develop or improve tooling whose primary purpose is to facilitate the above;
+   (d) any unlawful purpose.
+
+3. NO REDISTRIBUTION. You may not publish, mirror, resell, or otherwise redistribute the full
+   Dataset or substantial portions of it. Direct others to the official access process
+   (see ACCESS.md). You may quote small excerpts as needed for academic publication and peer review.
+
+4. ATTRIBUTION. Any publication or public artifact that uses the Dataset must cite the paper
+   (see CITATION.cff) and, where relevant, the nine source benchmarks from which seeds were drawn.
+
+5. NO WARRANTY. THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE DATASET OR ITS
+   USE. You are solely responsible for ensuring your use complies with all applicable laws and with
+   the terms of service of any model or API you evaluate.
+
+7. TERMINATION. Any breach of these terms terminates your rights under this license, and you must
+   delete all copies of the Dataset in your possession.
