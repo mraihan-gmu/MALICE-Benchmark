@@ -14,7 +14,7 @@ team acting in a defensive capacity) and a concrete, defensive research purpose.
 
 ## How to request
 
-Email **`mraihan@nd.edu`** with the subject line **`MALICE dataset access request`** and include:
+Email **`md.nishat.008@gmail.com`** with the subject line **`MALICE dataset access request`** and include:
 
 1. **Name** and **institutional affiliation** (with an institutional email address).
 2. A link to a **web page verifying your affiliation** (faculty/lab/staff page, or similar).
@@ -28,7 +28,7 @@ Email **`mraihan@nd.edu`** with the subject line **`MALICE dataset access reques
 ## Request template
 
 ```
-To: mraihan@nd.edu
+To: md.nishat.008@gmail.com
 Subject: MALICE dataset access request
 
 Name:

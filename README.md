@@ -174,5 +174,5 @@ No executable malicious code is included in this dataset — only prompts. Use i
 
 ## ✉️ Contact
 
-Nishat Raihan — `mraihan@nd.edu` (George Mason University).
+Nishat Raihan — `md.nishat.008@gmail.com` (George Mason University).
 For data access, follow [`ACCESS.md`](ACCESS.md).

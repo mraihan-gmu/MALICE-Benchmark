@@ -7,7 +7,7 @@ evaluating Code LLM safety guardrails under code-mixed and transliterated inputs
   Findings of the ACL: EMNLP 2026.
 - **Authors / curators:** Nishat Raihan, Dipak Meher, Bhuwan Dhingra, Marcos Zampieri
   (George Mason University; Duke University).
-- **Point of contact:** `mraihan@nd.edu`
+- **Point of contact:** `md.nishat.008@gmail.com`
 - **License:** Restricted-use, research-only (see [`LICENSE`](LICENSE)).
 - **Languages:** 18 (see below).
 
