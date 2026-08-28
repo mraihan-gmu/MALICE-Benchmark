@@ -19,7 +19,7 @@ authors:
     given-names: Marcos
     affiliation: George Mason University
 license: LicenseRef-MALICE-Restricted-Use
-repository-code: "https://github.com/mraihan-gmu/MALICE-Dataset"
+repository-code: "https://github.com/mraihan-gmu/MALICE-Benchmark"
 year: 2026
 preferred-citation:
   type: conference-paper

@@ -1,4 +1,4 @@
-# MALICE Dataset
+# MALICE Benchmark
 
 **M**alicious **A**dversarial **L**LM **I**nput for **C**ode **E**valuation
 
@@ -97,8 +97,8 @@ requesting access.
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/mraihan-gmu/MALICE-Dataset.git
-cd MALICE-Dataset
+git clone https://github.com/mraihan-gmu/MALICE-Benchmark.git
+cd MALICE-Benchmark
 pip install -r requirements.txt
 
 # Inspect the bundled 30-row sample
@@ -129,7 +129,7 @@ code_mixed = df[df["type"] == "code-mixed"]
 ## 🗂️ Repository structure
 
 ```
-MALICE-Dataset/
+MALICE-Benchmark/
 ├── README.md                     # this file
 ├── DATA_CARD.md                  # dataset card (provenance, stats, construction)
 ├── ACCESS.md                     # how to request the full gated corpus
