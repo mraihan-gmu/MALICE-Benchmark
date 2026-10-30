@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use the MALICE dataset, please cite the following paper."
-title: "MALICE: Malicious Adversarial LLM Input for Code Evaluation"
+title: "MALICE: Malicious Adversarial LLM Inputs for Code Generation"
 abstract: >-
   A large-scale adversarial benchmark of ~250K code-mixed and transliterated
   prompts for evaluating the robustness of Code LLM safety guardrails under
@@ -18,9 +18,8 @@ authors:
   - family-names: Zampieri
     given-names: Marcos
     affiliation: George Mason University
-license: LicenseRef-MALICE-Restricted-Use
+license-url: "https://github.com/mraihan-gmu/MALICE-Benchmark/blob/main/LICENSE"
 repository-code: "https://github.com/mraihan-gmu/MALICE-Benchmark"
-year: 2026
 preferred-citation:
   type: conference-paper
   title: "On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs"
@@ -34,4 +33,15 @@ preferred-citation:
     - family-names: Zampieri
       given-names: Marcos
   collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  collection-type: proceedings
+  publisher:
+    name: Association for Computational Linguistics
+  location:
+    name: "Budapest, Hungary"
+  month: 10
   year: 2026
+  start: 11962
+  end: 11981
+  isbn: "979-8-89176-462-0"
+  doi: "10.18653/2026.findings-emnlp.568"
+  url: "https://aclanthology.org/2026.findings-emnlp.568/"

@@ -1,8 +1,8 @@
 # MALICE Benchmark
 
-**M**alicious **A**dversarial **L**LM **I**nput for **C**ode **E**valuation
+**M**alicious **A**dversarial **L**LM **I**nputs for **C**ode G**e**neration
 
-> 📢 **Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026.**
+> 📢 **Published in [Findings of the Association for Computational Linguistics: EMNLP 2026](https://aclanthology.org/2026.findings-emnlp.568/).** [[Paper]](https://aclanthology.org/2026.findings-emnlp.568/) [[PDF]](https://aclanthology.org/2026.findings-emnlp.568.pdf)
 
 MALICE is a large-scale adversarial benchmark for probing the robustness of **Code LLM safety
 guardrails** under linguistically diverse inputs. It converts malicious English coding prompts into
@@ -20,9 +20,10 @@ safety tools (including Claude 4.6 and GPT-5.2).
 
 ## 📄 Paper
 
-**On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs**
+**[On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs](https://aclanthology.org/2026.findings-emnlp.568/)**
 Nishat Raihan, Dipak Meher, Bhuwan Dhingra, Marcos Zampieri.
-*Findings of the ACL: EMNLP 2026.*
+*Findings of the Association for Computational Linguistics: EMNLP 2026*, pages 11962–11981, Budapest, Hungary.
+[PDF](https://aclanthology.org/2026.findings-emnlp.568.pdf) · DOI: [10.18653/2026.findings-emnlp.568](https://doi.org/10.18653/2026.findings-emnlp.568)
 
 If you use MALICE, please [cite the paper](#-citation).
 
@@ -163,12 +164,28 @@ No executable malicious code is included in this dataset — only prompts. Use i
 
 ## 📚 Citation
 
+Nishat Raihan, Dipak Meher, Bhuwan Dhingra, and Marcos Zampieri. 2026. [On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs](https://aclanthology.org/2026.findings-emnlp.568/). In *Findings of the Association for Computational Linguistics: EMNLP 2026*, pages 11962–11981, Budapest, Hungary. Association for Computational Linguistics.
+
 ```bibtex
-@inproceedings{raihan2026malice,
-  title     = {On the Robustness of Code {LLM} Guardrails to Code-mixed and Transliterated Inputs},
-  author    = {Raihan, Nishat and Meher, Dipak and Dhingra, Bhuwan and Zampieri, Marcos},
-  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
-  year      = {2026}
+@inproceedings{raihan-etal-2026-robustness,
+    title = "On the Robustness of Code {LLM} Guardrails to Code-mixed and Transliterated Inputs",
+    author = "Raihan, Nishat  and
+      Meher, Dipak  and
+      Dhingra, Bhuwan  and
+      Zampieri, Marcos",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.568/",
+    doi = "10.18653/2026.findings-emnlp.568",
+    pages = "11962--11981",
+    ISBN = "979-8-89176-462-0"
 }
 ```
 

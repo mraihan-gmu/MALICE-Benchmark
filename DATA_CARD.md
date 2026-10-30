@@ -1,10 +1,10 @@
 # MALICE — Dataset Card
 
-**MALICE** (Malicious Adversarial LLM Input for Code Evaluation) is an adversarial benchmark for
+**MALICE** (Malicious Adversarial LLM Inputs for Code Generation) is an adversarial benchmark for
 evaluating Code LLM safety guardrails under code-mixed and transliterated inputs.
 
-- **Paper:** *On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs*,
-  Findings of the ACL: EMNLP 2026.
+- **Paper:** [*On the Robustness of Code LLM Guardrails to Code-mixed and Transliterated Inputs*](https://aclanthology.org/2026.findings-emnlp.568/),
+  Findings of the Association for Computational Linguistics: EMNLP 2026, pages 11962–11981.
 - **Authors / curators:** Nishat Raihan, Dipak Meher, Bhuwan Dhingra, Marcos Zampieri
   (George Mason University; Duke University).
 - **Point of contact:** `md.nishat.008@gmail.com`
